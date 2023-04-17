@@ -1,0 +1,1 @@
+Web: gunicorn taskapp:app
